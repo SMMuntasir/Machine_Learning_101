@@ -12,8 +12,6 @@
 - **Khan Academy – Statistics & Probability**  
   [Visit website](https://www.khanacademy.org/math/statistics-probability)
 
-- **FreeCodeCamp Full Statistics Course (YouTube)**  
-  [Watch here](https://youtu.be/i_LwzRVP7bg?si=jJ6MeWEtafMDQMCl)
 
 ---
 
@@ -28,10 +26,10 @@
 
 ---
 
-## 📌 Notes
+## 📌 Notes (Stack)
 
 - Starting with statistics .  
 - Follow the roadmap sequentially for a systematic approach.  
-- Mainly doing project and learning alongside.  
+- Mainly doing project and learning alongside. Following this [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=jJ6MeWEtafMDQMCl) 
 
 
